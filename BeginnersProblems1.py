@@ -1,0 +1,8 @@
+x = (60)
+print(30*x)
+print(5*x)
+y= (2)
+print(7*y)
+print(59*y)
+age = int(input("What is your age?"))
+print(age*365)
